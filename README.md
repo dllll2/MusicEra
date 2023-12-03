@@ -24,6 +24,6 @@
 
 - 데이터 정제 및 시각화
 
-크롤링해온 데이터를 가공하고 여러가지 시각화를 진핼
-  -Korea_Music_era.ipynb (국내)
-  -Foreign_Music_era.ipynb (해외)
+- 크롤링해온 데이터를 가공하고 여러가지 시각화를 진핼
+  - Korea_Music_era.ipynb (국내)
+  - Foreign_Music_era.ipynb (해외)
