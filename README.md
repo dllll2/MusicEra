@@ -33,4 +33,5 @@
 ![top10 장르별 노래수(국내)](https://github.com/dllll2/MusicEra/assets/105922173/b6bc74e6-2ad2-42e2-a19b-3f5b7a1eb69d)
 
 
+1990년 부터 2022년까지의 장르별 노래수를 시각화한 그래프
 
