@@ -39,3 +39,16 @@
 ![연도별 상위 5개 장르의 변화(국내)](https://github.com/dllll2/MusicEra/assets/105922173/06be894b-aa1d-4e9b-af55-9128e9ad8b47)
 
 1990년 부터 2022년 까지의 장르별 노래수의 변화를 시각화한 그래프
+
+
+
+![2023년에 유행할 음악 장르(국내)](https://github.com/dllll2/MusicEra/assets/105922173/99b25dab-edaa-4c13-a65e-0ed76cc25c2d)
+
+
+2023년에 유행할 음악 장르에 대한 예측을 시각화한 그래프
+
+
+![연대별 유행한 음악장르 top3(국내)](https://github.com/dllll2/MusicEra/assets/105922173/2d7d77fc-3173-4889-97e1-442b989cea6d)
+
+
+연대별로 유행했던 음악장르를 시각화한 그래프
