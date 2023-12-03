@@ -27,7 +27,11 @@
 - 크롤링해온 데이터를 가공하고 여러가지 시각화를 진행
     - Korea_Music_era.ipynb (국내)
     - Foreign_Music_era.ipynb (해외)
- 
+
+
+
+
+ <img src="img/top10 장르별 노래수(국내).png>
 
 
 
