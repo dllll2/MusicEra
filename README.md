@@ -30,8 +30,7 @@
 
 
 
-
- <img src="img/top10 장르별 노래수(국내).png>
+![top10 장르별 노래수(국내)](https://github.com/dllll2/MusicEra/assets/105922173/b6bc74e6-2ad2-42e2-a19b-3f5b7a1eb69d)
 
 
 
